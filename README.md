@@ -19,4 +19,9 @@ Here are some ideas to get you started:
 
 I am Jamil de Souza,
  
-a student of CEFET-MG, completing the 3rd period of Computer Engineering. Currently my favorite language is Java, but I want to learn more about other languages
+a student of CEFET-MG, completing the 3rd period of Computer Engineering. Currently my favorite language is Java, but I want to learn more about other languages.
+
+Looking for a internship to learn more about programmation :)
+
+
+trab.jamilsouza@gmail.com
