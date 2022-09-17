@@ -25,3 +25,4 @@ Looking for a internship to learn more about programmation :)
 
 
 trab.jamilsouza@gmail.com
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilzin1&layout=compact&title_color=fff&text_color=f8f8f2&hide=java&bg_color=171c24)](https://github.com/gui-loko)
