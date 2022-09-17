@@ -25,4 +25,4 @@ Looking for a internship to learn more about programmation :)
 
 
 trab.jamilsouza@gmail.com
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilzin&layout=compact)](https://github.com/jamilzin1)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilzin1&layout=compact)](https://github.com/jamilzin1)
