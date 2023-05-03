@@ -21,8 +21,10 @@ Here are some ideas to get you started:
 
 
 Graduando em Engenharia da Computação, conhecimento nas linguagens Java, C e JavaScript, conhecimentos no framework SpringBoot e nos bancos de dados PostgreSQL e MySQL, possuindo inglês intermediário.
-No momento, estou inclinado a estudar mais profundamente a respeito do framework Spring, entretanto, sempre disposto a aprender novas tecnologias
+No momento, estou inclinado a estudar mais profundamente a respeito do framework Spring, entretanto, sempre disposto a aprender novas tecnologias.
 
+Pode checar o currículo completo por aqui:
+https://jamilzin1.github.io   :)
 
 trab.jamilsouza@gmail.com
 <p align="center">
