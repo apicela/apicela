@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Jamil de Souza,
- 
-a student of CEFET-MG, completing the 4th period of Computer Engineering. Currently my favorite language is Java, but I want to learn more about other languages.
 
-Looking for a internship to learn more about programmation :)
+
+
+Graduando em Engenharia da Computação, conhecimento nas linguagens Java, C e JavaScript, conhecimentos no framework SpringBoot e nos bancos de dados PostgreSQL e MySQL, possuindo inglês intermediário.
+No momento, estou inclinado a estudar mais profundamente a respeito do framework Spring, entretanto, sempre disposto a aprender novas tecnologias
 
 
 trab.jamilsouza@gmail.com
