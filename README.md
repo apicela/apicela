@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 
 
 
-Graduando em Engenharia da Computação, conhecimento nas linguagens Java, C e JavaScript, conhecimentos no framework SpringBoot e nos bancos de dados PostgreSQL e MySQL, possuindo inglês intermediário.
-No momento, estou inclinado a estudar mais profundamente a respeito do framework Spring, entretanto, sempre disposto a aprender novas tecnologias.
+Graduando em Engenharia da Computação, possuindo maior conhecimento em Java, SpringBoot e PostgreSQL, além de conhecimentos nas linguagens C e JavaScript.
+Atualmente, estou focado no aprendizado de TypeScript e ReactJS.
 
 Pode checar o currículo completo por aqui:
 https://jamilzin1.github.io   :)
