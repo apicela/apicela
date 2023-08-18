@@ -45,3 +45,4 @@ trab.jamilsouza@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jamilzin1&layout=compact)](https://github.com/jamilzin1)
  
 </div>
+<img src="https://t.bkit.co/w_64dec8c5b4658.gif" />
