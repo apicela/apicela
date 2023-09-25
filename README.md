@@ -41,14 +41,13 @@ Here are some ideas to get you started:
  
 <br>
 <div align= "center">
-
-<img  src="https://img.shields.io/badge/Java-4f4c52?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/Kotlin-4f4c52?&style=for-the-badge&logo=kotlin&logoColor="/>
- <img src="https://img.shields.io/badge/JavaScript-4f4c52?style=for-the-badge&logo=javascript&logoColor=yellow">
-<img src="https://img.shields.io/badge/C-4f4c52?style=for-the-badge&logo=c&logoColor=white">
- <img src="https://img.shields.io/badge/Spring-c99cff?style=for-the-badge&logo=spring&logoColor=00ff44">
-<img src="https://img.shields.io/badge/HTML-c99cff?style=for-the-badge&logo=html5&logoColor=orange">
-<img src="https://img.shields.io/badge/CSS-c99cff?&style=for-the-badge&logo=css3&logoColor=blue">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img  src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=black">
+  <img src="https://img.shields.io/badge/Kotlin-3776AB?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/Spring-4f4c52?style=for-the-badge&logo=spring&logoColor=00ff44">
+<img src="https://img.shields.io/badge/HTML-4f4c52?style=for-the-badge&logo=html5&logoColor=orange">
+<img src="https://img.shields.io/badge/CSS-4f4c52?&style=for-the-badge&logo=css3&logoColor=blue">
 <img src="https://img.shields.io/badge/PostgreSQL-d9d9d9?style=for-the-badge&logo=postgresql&logoColor=">
  <img src="https://img.shields.io/badge/MySQL-d9d9d9?style=for-the-badge&logo=mysql&logoColor=black">
 <br>
