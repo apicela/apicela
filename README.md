@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 📫 e-mail: trab.jamilsouza@gmail.com
 
-📜 Clique [aqui](https://jamilzin1.github.io) para acessar o currículo em HTML no GitHub Pages
+📜 Clique [aqui](https://apicela.github.io) para acessar o currículo em HTML no GitHub Pages
 <br><br><br>
 
 
@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/PostgreSQL-d9d9d9?style=for-the-badge&logo=postgresql&logoColor=">
 <br>
 <br>
- <img  align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jamilzin1&layout=compact&theme=dracula" alt="Jamil Souza github stats" />
+ <img  align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apicela&layout=compact&theme=dracula" alt="Jamil Souza github stats" />
   </div>
