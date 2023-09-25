@@ -39,7 +39,7 @@ Here are some ideas to get you started:
 <br><br><br><br>
 <div style="display: flex; justify-content: space-between;">
 <span align="left" name ="languages">
-<div align="center">
+<span align="center">
 <img src="https://img.shields.io/badge/Java-4f4c52?style=for-the-badge&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/Kotlin-4f4c52?&style=for-the-badge&logo=kotlin&logoColor="/>
  <img src="https://img.shields.io/badge/JavaScript-4f4c52?style=for-the-badge&logo=javascript&logoColor=yellow">
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/CSS-ffcf66?&style=for-the-badge&logo=css3&logoColor=blue"><br>
 <img src="https://img.shields.io/badge/PostgreSQL-d9d9d9?style=for-the-badge&logo=postgresql&logoColor=">
  <img src="https://img.shields.io/badge/MySQL-d9d9d9?style=for-the-badge&logo=mysql&logoColor=black">
-</div>
+</span>
 </span>
  <span align="right" name ="image">
  
