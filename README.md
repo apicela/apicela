@@ -49,7 +49,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/HTML-4f4c52?style=for-the-badge&logo=html5&logoColor=orange">
 <img src="https://img.shields.io/badge/CSS-4f4c52?&style=for-the-badge&logo=css3&logoColor=blue">
 <img src="https://img.shields.io/badge/PostgreSQL-d9d9d9?style=for-the-badge&logo=postgresql&logoColor=">
- <img src="https://img.shields.io/badge/MySQL-d9d9d9?style=for-the-badge&logo=mysql&logoColor=black">
 <br>
 <br>
  <img  align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=jamilzin1&layout=compact&theme=dracula" alt="Jamil Souza github stats" />
