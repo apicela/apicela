@@ -27,10 +27,11 @@ Here are some ideas to get you started:
 
 🚀 Em busca de novos conhecimentos e experiências
 
-📚 Desenvolvimento em Java, Kotlin, Python, SpringBoot
+📚 Desenvolvimento back-end em Java, Kotlin(mobile), Python, SpringBoot
 
 🌐 Conhecimentos em desenvolvimento web, como JavaScript, HTML, CSS
 
+🗂️ Docker, SQL, ElasticSearch, SQLite (mobile)
 
 📫 e-mail: trab.jamilsouza@gmail.com
 
