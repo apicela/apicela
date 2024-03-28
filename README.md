@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 🚀 Em busca de novos conhecimentos e experiências
 
-📚 Desenvolvimento back-end em Java, Kotlin(mobile), Python, SpringBoot
+📚 Desenvolvimento back-end em Java, Kotlin, Python, SpringBoot
 
 🌐 Conhecimentos em desenvolvimento web, como JavaScript, HTML, CSS
 
