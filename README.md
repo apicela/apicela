@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 
 
 
+📜  [Portfolio](https://apicela.github.io)
 
 👨‍💻 Graduando em Engenharia da Computação
 
@@ -35,7 +36,6 @@ Here are some ideas to get you started:
 
 📫 e-mail: trab.jamilsouza@gmail.com
 
-📜 Clique [aqui](https://apicela.github.io) para acessar o currículo em HTML no GitHub Pages
 <br><br><br>
 
 
