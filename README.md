@@ -42,9 +42,9 @@ Here are some ideas to get you started:
  
 <br>
 <div align= "center">
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img  src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=black">
   <img src="https://img.shields.io/badge/Kotlin-3776AB?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/Spring-4f4c52?style=for-the-badge&logo=spring&logoColor=00ff44">
 <img src="https://img.shields.io/badge/HTML-4f4c52?style=for-the-badge&logo=html5&logoColor=orange">
