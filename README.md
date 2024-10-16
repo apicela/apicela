@@ -26,13 +26,14 @@ Here are some ideas to get you started:
 
 👨‍💻 Graduando em Engenharia da Computação
 
-🚀 Em busca de novos conhecimentos e experiências
+:hammer_and_wrench:	Design Patterns, Algoritmos e Estruturas de Dados, SQL, POO, APIs, Git,Metodologias ágeis
 
 📚 Desenvolvimento back-end em Java, Kotlin, Python, SpringBoot
 
 🌐 Conhecimentos em desenvolvimento web, como o framework Vue.js (HTML5 + CSS + JavaScript)
 
-🗂️ Docker, SQL, ElasticSearch, SQLite (mobile)
+🗂️ RabbitMQ, Docker, SQL, ElasticSearch, SQLite (mobile)
+
 
 📫 e-mail: trab.jamilsouza@gmail.com
 
