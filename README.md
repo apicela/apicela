@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 📚 Desenvolvimento back-end em Java, Kotlin, Python, SpringBoot
 
-🌐 Conhecimentos em desenvolvimento web, como JavaScript, HTML, CSS
+🌐 Conhecimentos em desenvolvimento web, como o framework Vue.js (HTML5 + CSS + JavaScript)
 
 🗂️ Docker, SQL, ElasticSearch, SQLite (mobile)
 
