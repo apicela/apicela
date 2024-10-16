@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 
 
-📜  [Portfolio](https://apicela.github.io)
+:link:  [Portfolio](https://apicela.github.io)  --> https://apicela.github.io
 
 👨‍💻 Graduando em Engenharia da Computação
 
