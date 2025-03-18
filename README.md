@@ -47,10 +47,19 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Kotlin-3776AB?&style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
+ <img src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=csharp&logoColor=white">
+ <br>
  <img src="https://img.shields.io/badge/Spring-4f4c52?style=for-the-badge&logo=spring&logoColor=00ff44">
+  <img src="https://img.shields.io/badge/.NET-4f4c52?style=for-the-badge&logo=dotnet&logoColor=white">
+ <img src="https://img.shields.io/badge/Vue%20js-4f4c52?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
+
 <img src="https://img.shields.io/badge/HTML-4f4c52?style=for-the-badge&logo=html5&logoColor=orange">
 <img src="https://img.shields.io/badge/CSS-4f4c52?&style=for-the-badge&logo=css3&logoColor=blue">
+  <img src="https://img.shields.io/badge/Salesforce-4f4c52?style=for-the-badge&logo=Salesforce&logoColor=white">
+  <br>
 <img src="https://img.shields.io/badge/PostgreSQL-d9d9d9?style=for-the-badge&logo=postgresql&logoColor=">
+  <img src="https://img.shields.io/badge/Android_Studio-d9d9d9?style=for-the-badge&logo=android-studio&logoColor=blue">
+<img src="https://img.shields.io/badge/Linux-d9d9d9?style=for-the-badge&logo=linux&logoColor=black">
 <br>
 <br>
  <img  align="center" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=apicela&layout=compact&theme=dracula" alt="Jamil Souza github stats" />
