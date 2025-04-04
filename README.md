@@ -43,12 +43,14 @@ Here are some ideas to get you started:
 <br>
 <div align= "center">
 <img  src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=java&logoColor=black">
-  <img src="https://img.shields.io/badge/Kotlin-3776AB?&style=for-the-badge&logo=kotlin&logoColor=white"/>
  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
  <img src="https://img.shields.io/badge/JavaScript-3776AB?style=for-the-badge&logo=javascript&logoColor=white">
  <img src="https://img.shields.io/badge/C%23-3776AB?style=for-the-badge&logo=csharp&logoColor=white">
+   <img src="https://img.shields.io/badge/Kotlin-3776AB?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+
  <br>
  <img src="https://img.shields.io/badge/Spring-4f4c52?style=for-the-badge&logo=spring&logoColor=00ff44">
+  <img src="https://img.shields.io/badge/Flask-4f4c52?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/.NET-4f4c52?style=for-the-badge&logo=dotnet&logoColor=white">
  <img src="https://img.shields.io/badge/Vue%20js-4f4c52?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">
 
@@ -57,6 +59,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Salesforce-4f4c52?style=for-the-badge&logo=Salesforce&logoColor=white">
   <br>
 <img src="https://img.shields.io/badge/PostgreSQL-d9d9d9?style=for-the-badge&logo=postgresql&logoColor=">
+    <img src="https://img.shields.io/badge/Docker-d9d9d9?style=for-the-badge&logo=docker&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Android_Studio-d9d9d9?style=for-the-badge&logo=android-studio&logoColor=blue">
 <img src="https://img.shields.io/badge/Linux-d9d9d9?style=for-the-badge&logo=linux&logoColor=black">
 <br>
